@@ -11,7 +11,7 @@ const siteMetadata = {
     introTag: `RED INTERNACIONAL | JÓVENES EMPRENDEDORES`,
     description: `Es una organización cuyo principal objetivo es establecer espacios que impulsen y promuevan el desarrollo del emprendimiento juvenil a nivel internacional.`,
     about:
-        "Cras accumsan a lectus at tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus elementum dapibus dictum. Mauris auctor quam nec est tincidunt hendrerit. Donec pulvinar lobortis mauris. Cras vulputate ullamcorper ligula a rhoncus. Nunc venenatis elementum ligula in semper. Mauris malesuada purus nunc, et ultricies leo aliquam ac. Ut sit amet nunc id magna accumsan hendrerit in eget metus.",
+        "Somos una organización cuyo principal objetivo es establecer espacios que te impulsen y promuevan el desarrollo de tu emprendimiento a nivel internacional. Queremos ser parte de formar tus sueños empresariales y crear tu startup",
     author: `@_akzhy`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
